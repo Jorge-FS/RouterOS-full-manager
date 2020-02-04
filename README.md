@@ -1,6 +1,6 @@
 # RouterOS-full-manager
 Complete administration of multiple devices with RouterOS, add PPPoe users and manage suspended devices.
-<p align="center">![Alt Logotipo](/src/README/logo.png)</p>
+![Alt Logotipo](/src/README/logo.png)
 
 
 ### Prerequisites
