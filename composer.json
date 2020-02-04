@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php": ">=7.3.0",
+        "ubnt/ucrm-plugin-sdk": ">=0.6.0"
+    }
+}
+
